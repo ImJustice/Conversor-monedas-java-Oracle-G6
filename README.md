@@ -32,10 +32,6 @@ El sistema:
 
 El proyecto se encuentra en su versión 1.0.0.
 
-## Acceso al Proyecto
-
-Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [GitHub Conversor de monedas en Java](https://github.com/MAValerdi/Conversor-monedas-java).
-
 ## Instrucciones de Uso
 
 1. Clona el repositorio desde GitHub.
