@@ -28,34 +28,6 @@ El sistema:
     En cuanto al menejo de errores, entre otros y no menos importante es cuando el usuario intenta ingresar un valor fuera de los contenidos en el menú. Indicandole al usuario de dicho error y permitiendo que siga con la conversión de otras monedas.
 
 
-
-## Demostración del Sistema
-
-Menú de inicio al sistema.
-![Menu-inicio](img/01-Menu-Inicio.png)
-
-Selección del Usuario, de moneda a convertir.
-![Selec-User](img/02-Selecc-User.png)
-
-Resultado de la conversión seleccionada.
-![Result-Consulta](img/03-Result-Consult.png)
-
-Segunda Conversion del usuario.
-![Segunda-Consulta](img/04-2a-Consulta.png)
-
-Resultado de la segunda Conversión.
-![Resul-segunda-consulta](img/05-2do-Resultado.png)
-
-Consulta al histórica de Conversiones.
-![Consulta-Hostorico](img/06-Consulta-Historico.png)
-
-Error al intentar ingresar un valor fuera del menú.
-![Error-No-Admitido](img/07-Error-Valor-No-Admitido.png)
-
-Salida y fin del sistema
-![Salida](img/08-Salida.png)
-
-
 ## Estado del Proyecto
 
 El proyecto se encuentra en su versión 1.0.0.
