@@ -1,8 +1,5 @@
 # Conversor de Monedas - Java
 
-![Conversor de Monedas](img/Conversor-Monedas-Banner.png)
-
-
 ## Descripción
 
 Este proyecto permite al usuario realizar la conversión de monedas al tipo de cambio actualizado a la fecha, según las opciones propuestas en Menú.
