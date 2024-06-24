@@ -75,9 +75,7 @@ Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [
 4. Ejecuta la aplicación y sigue las instrucciones en pantalla.
 
 ## Autor
-Mario Alberto Valerdi Garduño
-[Linkedin Mario Valerdi](https://www.linkedin.com/in/mariovalerdi).
-
+Julian Camacho
 
 #### Anotaciones finales:
 Challenge "CONVERSOR DE MONEDAS".
